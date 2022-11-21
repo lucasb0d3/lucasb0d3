@@ -7,5 +7,8 @@
 - 🤔 Estou buscando ajuda para adquirir esperiência ...
 - 📫 Email para contato lucas.ap.bode@gmail.com ...
 - 😄 Pronouns: Lucas...
-- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Anurag's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+- [![Anurag's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=lucasb0d3&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/lucasb0d3/github-readme-stats#gh-dark-mode-only)
+
+
+
+
